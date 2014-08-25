@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarBonanza", "WindowsGame1\StarBonanza.csproj", "{9D1AE2C2-1CA2-432A-AF26-F38E4E948117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D1AE2C2-1CA2-432A-AF26-F38E4E948117}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9D1AE2C2-1CA2-432A-AF26-F38E4E948117}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{9D1AE2C2-1CA2-432A-AF26-F38E4E948117}.Debug|x86.ActiveCfg = Debug|x86
+		{9D1AE2C2-1CA2-432A-AF26-F38E4E948117}.Debug|x86.Build.0 = Debug|x86
+		{9D1AE2C2-1CA2-432A-AF26-F38E4E948117}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{9D1AE2C2-1CA2-432A-AF26-F38E4E948117}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9D1AE2C2-1CA2-432A-AF26-F38E4E948117}.Release|Mixed Platforms.Build.0 = Release|x86
+		{9D1AE2C2-1CA2-432A-AF26-F38E4E948117}.Release|x86.ActiveCfg = Release|x86
+		{9D1AE2C2-1CA2-432A-AF26-F38E4E948117}.Release|x86.Build.0 = Release|x86
+		{9D1AE2C2-1CA2-432A-AF26-F38E4E948117}.Release|Xbox 360.ActiveCfg = Release|x86
+		{1295D647-0E4B-4C62-9ECA-E4DABCBF823E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{1295D647-0E4B-4C62-9ECA-E4DABCBF823E}.Debug|x86.ActiveCfg = Debug|x86
+		{1295D647-0E4B-4C62-9ECA-E4DABCBF823E}.Debug|Xbox 360.ActiveCfg = Debug|x86
+		{1295D647-0E4B-4C62-9ECA-E4DABCBF823E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{1295D647-0E4B-4C62-9ECA-E4DABCBF823E}.Release|x86.ActiveCfg = Release|x86
+		{1295D647-0E4B-4C62-9ECA-E4DABCBF823E}.Release|Xbox 360.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
